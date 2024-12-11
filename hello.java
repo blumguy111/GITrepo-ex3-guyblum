@@ -1,7 +1,7 @@
-public class Hello{
+public class hello{
 	public static void main(String[] args){
 		for(int i=1;i<=10;i++){
-			System.out.println("technology!"+i);
+			System.out.println("tech 2"+i);
 		}
 	}
 }
